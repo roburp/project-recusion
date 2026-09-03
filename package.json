@@ -1,0 +1,25 @@
+{
+  "name": "project-recusion",
+  "version": "1.0.0",
+  "description": "Project: Recursion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roburp/project-recusion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/roburp/project-recusion/issues"
+  },
+  "homepage": "https://github.com/roburp/project-recusion#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.5.1"
+  }
+}
